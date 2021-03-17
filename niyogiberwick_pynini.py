@@ -46,7 +46,7 @@ class Speaker():
             n = 100
             if ind in range(95):
                 return "PWS"
-            elif ind in range(94, 97)
+            elif ind in range(94, 97):
                 return "CZECH"
             elif ind== 97:
                 return "P_PHON"
